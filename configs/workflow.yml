@@ -16,3 +16,10 @@ chromium:
   bookmarkOpenId: "fe18d1b8-0883-4dae-b463-48b6c86b89b4"
   profileListId: "0dbb6f03-744b-4821-8483-d3e773df15d6"
   profileSetId: "c7b2c7e1-29f0-4b00-84d5-7c3a8bf69549"
+
+
+edge:
+  bookmarkListId: "D7769BD8-21FF-47F7-A432-866867C7495F"
+  bookmarkOpenId: "694AB288-AAE4-4B5D-BD05-EC4854447588"
+  profileListId: "CB18F358-DF97-482D-B86A-ADCE7BAEC668"
+  profileSetId: "0522C7DD-A96D-4ED0-BC3E-5D51F9FCDEE3"
